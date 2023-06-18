@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahiltiwade
 - 👀 I’m interested in flutter app development
-- 🌱 I’m currently learning flutter and firebase
+- 🌱 Currently learning AI and ML
 - 📫 How to reach me :- email : sahiltiwade123@gmail.com
 - ![](https://komarev.com/ghpvc/?username=sahil65&color=green)
 
