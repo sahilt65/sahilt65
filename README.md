@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sahiltiwade
+- Mobile Application Developer
 - React Js Developer
 - Currently learning AI and ML
-- I’m interested in flutter app development
 - NodeJs Developer
 - How to reach me :- email : sahiltiwade123@gmail.com
 - ![](https://komarev.com/ghpvc/?username=sahil65&color=green)
